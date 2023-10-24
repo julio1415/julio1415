@@ -3,6 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Loading......
+- https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home
+- Azure Honeynet: Simulating Real-World Cyber Attacks 
 
 <h2>🔭 I’m currently working on </h2>
 
@@ -11,7 +13,6 @@
 
 <h2>🌱 I’m currently learning</h2>
 
-- Azure Honeynet: Simulating Real-World Cyber Attacks 
 - How to land my first job in tech specifically Cybersecurity
 
 <h2>📋 Certifications</h2>
