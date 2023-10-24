@@ -23,7 +23,7 @@
 - Ultimate GRC Course by Simply Cyber
 - Qualys pci-dss
 - Qualys Vulnerability Management (2024)
-- Google Information Technology Proffesional
+- Google Information Technology Professional
 - Google CyberSecurity
   
 <h2>📺 Popular YouTube Videos</h2>
