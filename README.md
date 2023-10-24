@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Programmer</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/acceleratedjulio">YouTuber</a></h1>
+<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Programmer</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCiAdM6T8Ix8FfzF1LJIHp7Q">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -39,7 +39,7 @@
 [<img align="left" alt="JulioRivera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/AcceleratedJulio
+[youtube]: https://www.youtube.com/channel/UCiAdM6T8Ix8FfzF1LJIHp7Q
 [instagram]: https://www.instagram.com//
 [linkedin]: https://linkedin.com/in/julioriveraa
 
