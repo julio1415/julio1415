@@ -20,6 +20,7 @@
 - ISC2 CC (Nov 2023)
 - AWS Certs: Cloud practicioner, Solutions Architect (2024)
 - IS-100.C: Introduction to the Incident Command System, ICS 100 (2024)
+- Ultimate GRC Course by Simply Cyber
 - Qualys pci-dss
 - Qualys Vulnerability Management (2024)
 - Google Information Technology Proffesional
