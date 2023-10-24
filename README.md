@@ -7,17 +7,24 @@
 <h2>🔭 I’m currently working on </h2>
 
 - Obtaining my Bachelors degree from Western Governors University in Information Technology Management (13 classes left)
-- Security Plus 601 (Feb 2023)
-- ISC2 CC (Nov 2023)
-- AWS Certs: Cloud practicioner, Solutions Architect
 - focusing in my health
 
 <h2>🌱 I’m currently learning</h2>
 
 - How to combine a Security Information Event Management (SIEM) tool with a Honeycomb 
 - How to land my first job in tech specifically Cybersecurity
-- Creating GitHub profile to post projects
 
+<h2>📋 Certifications</h2>
+
+- Security Plus 601 (Feb 2024)
+- ISC2 CC (Nov 2023)
+- AWS Certs: Cloud practicioner, Solutions Architect (In process)
+- IS-100.C: Introduction to the Incident Command System, ICS 100 (In process)
+- Qualys pci-dss
+- Qualys Vulnerability Management (in process)
+- Google Information Technology Proffesional
+- Google CyberSecurity
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - Uploading......... 
