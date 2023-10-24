@@ -1,12 +1,26 @@
-<h1>Hi, I'm Julio! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Programmer</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/acceleratedjulio">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 
+- Loading......
+
+<h2>🔭 I’m currently working on </h2>
+
+- Obtaining my Bachelors degree from Western Governors University in Information Technology Management (13 classes left)
+- Security Plus 601 (Feb 2023)
+- ISC2 CC (Nov 2023)
+- AWS Certs: Cloud practicioner, Solutions Architect
+- focusing in my health
+
+<h2>🌱 I’m currently learning</h2>
+
+- How to combine a Security Information Event Management (SIEM) tool with a Honeycomb 
+- How to land my first job in tech specifically Cybersecurity
+- Creating GitHub profile to post projects
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- 
+- Uploading......... 
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -25,7 +39,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<h3>🔭 I’m currently working on </h3>
+<h2>📺 Popular YouTube Videos</h2>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
