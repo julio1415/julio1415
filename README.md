@@ -11,7 +11,7 @@
 
 <h2>🌱 I’m currently learning</h2>
 
-- How to combine a Security Information Event Management (SIEM) tool with a Honeycomb 
+- Azure Honeynet: Simulating Real-World Cyber Attacks 
 - How to land my first job in tech specifically Cybersecurity
 
 <h2>📋 Certifications</h2>
