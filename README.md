@@ -16,12 +16,12 @@
 
 <h2>📋 Certifications</h2>
 
-- Security Plus 601 (Feb 2024)
+- Security Plus 601 (2024)
 - ISC2 CC (Nov 2023)
-- AWS Certs: Cloud practicioner, Solutions Architect (In process)
-- IS-100.C: Introduction to the Incident Command System, ICS 100 (In process)
+- AWS Certs: Cloud practicioner, Solutions Architect (2024)
+- IS-100.C: Introduction to the Incident Command System, ICS 100 (2024)
 - Qualys pci-dss
-- Qualys Vulnerability Management (in process)
+- Qualys Vulnerability Management (2024)
 - Google Information Technology Proffesional
 - Google CyberSecurity
   
