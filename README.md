@@ -27,6 +27,7 @@
 - Google Information Technology Professional
 - Google CyberSecurity
 - Splunk (2024)
+- Cisco Upskilling (2024
   
 <h2>📺 Popular YouTube Videos</h2>
 
