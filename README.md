@@ -1,15 +1,15 @@
-<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Programmer</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@acceleratedjulio">YouTuber</a></h1>
+<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Programmer</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Loading......
-- https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home
-- Azure Honeynet: Simulating Real-World Cyber Attacks 
+<!-- - https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home
+- Azure Honeynet: Simulating Real-World Cyber Attacks -->
 
 <h2>🔭 I’m currently working on </h2>
 
-- Obtaining my Bachelors degree from Western Governors University in Information Technology Management (13 classes left)
-- focusing in my health
+- Obtaining my Bachelors degree (9 classes left)
+- Getting healthy
 
 <h2>🌱 I’m currently learning</h2>
 
@@ -18,7 +18,7 @@
 <h2>📋 Certifications</h2>
 
 - Security Plus 601 (2024)
-- ISC2 CC (Nov 2023)
+- ISC2 CC (DEC 2023)
 - AWS Certs: Cloud practicioner, Solutions Architect (2024)
 - IS-100.C: Introduction to the Incident Command System, ICS 100 (2024)
 - Ultimate GRC Course by Simply Cyber
@@ -27,7 +27,7 @@
 - Google Information Technology Professional
 - Google CyberSecurity
 - Splunk (2024)
-- Cisco Upskilling (2024
+- Cisco Upskilling (2024)
   
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -41,7 +41,7 @@
 [<img align="left" alt="JulioRivera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/@acceleratedjulio
+<!-- [youtube]: https://www.youtube.com/@acceleratedjulio -->
 [instagram]: https://www.instagram.com//
 [linkedin]: https://linkedin.com/in/julioriveraa
 
