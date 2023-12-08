@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Programmer</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
+<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">Information Technology</a>, <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
