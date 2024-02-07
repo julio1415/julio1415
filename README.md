@@ -8,7 +8,7 @@
 
 <h2>🔭 I’m currently working on </h2>
 
-- Obtaining my Bachelors degree (3 classes left)
+- Obtaining my Bachelors degree (1 classes left)
 - Getting healthy
 
 <h2>🌱 I’m currently learning</h2>
