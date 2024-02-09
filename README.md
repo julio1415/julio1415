@@ -19,7 +19,7 @@
 <h2>📋 Certifications</h2>
 
 - Security Plus 601 (2024)
-- ISC2 CC (DEC 2023)
+- ISC2 CC (MAR 2024)
 - AWS Certs: Cloud practicioner, Solutions Architect (2024)
 - IS-100.C: Introduction to the Incident Command System, ICS 100 (2024)
 - Ultimate GRC Course by Simply Cyber
