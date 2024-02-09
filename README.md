@@ -8,8 +8,9 @@
 
 <h2>🔭 I’m currently working on </h2>
 
-- Obtaining my Bachelors degree (1 classes left)
-- Getting healthy
+- Security plus
+- Building an Azure Honey Net SOC
+- Getting Healthy
 
 <h2>🌱 I’m currently learning</h2>
 
