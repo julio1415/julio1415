@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Loading......
-<!-- - https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home
-- Azure Honeynet: Simulating Real-World Cyber Attacks -->
+<!-- - https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home-->
+- <a href="https://github.com/julio1415/Cloud-SOC/blob/main/README.md">Azure Honeynet: Simulating Real-World Cyber Attacks 
 
 <h2>🔭 I’m currently working on </h2>
 
