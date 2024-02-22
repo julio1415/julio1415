@@ -1,9 +1,10 @@
 <h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">IT </a>& <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a> <!-- -, <a href="https://www.youtube.com/">YouTuber</a></h1>-->
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 <!-- - https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home-->
-- <a href="https://github.com/julio1415/Cloud-SOC/blob/main/README.md">Azure Honeynet: Simulating Real-World Cyber Attacks 
+- <b> Azure / Cloud Projects </b>
+- <a href="https://github.com/julio1415/Cloud-SOC/blob/main/README.md"> Creating a live SOC / Honeynet in Azure 
 
 <h2>🔭 I’m currently working on </h2>
 
