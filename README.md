@@ -9,6 +9,7 @@
 <h2>🔭 I’m currently working on </h2>
 
 - Security plus
+- ISC2 CC
 
 <h2>🌱 I’m currently learning</h2>
 
@@ -20,7 +21,7 @@
 - ISC2 CC (MAR 2024)
 - Ultimate GRC Course by Simply Cyber
 - Qualys pci-dss
-- Qualys Vulnerability Management (2024)
+- Qualys Vulnerability Management
 - Google Information Technology Professional
 - Google CyberSecurity
 
