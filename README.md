@@ -18,16 +18,12 @@
 
 - Security Plus 601 (2024)
 - ISC2 CC (MAR 2024)
-- AWS Certs: Cloud practicioner, Solutions Architect (2024)
-- IS-100.C: Introduction to the Incident Command System, ICS 100 (2024)
 - Ultimate GRC Course by Simply Cyber
 - Qualys pci-dss
 - Qualys Vulnerability Management (2024)
 - Google Information Technology Professional
 - Google CyberSecurity
-- Splunk (2024)
-- Cisco Upskilling (2024)
-  
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - Uploading......... 
