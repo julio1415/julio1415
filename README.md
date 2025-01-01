@@ -4,7 +4,8 @@
 
 <!-- - https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home-->
 - <b> Azure / Cloud Projects </b>
-  - [Creating a live SOC / Honeynet in Azure](https://github.com/julio1415/Cloud-SOC) 
+  - [Creating a live SOC / Honeynet in Azure](https://github.com/julio1415/Cloud-SOC)
+  -  - [Creating 1000 users in Active directory](https://github.com/julio1415/Cloud-SOC)
 
 <h2>🔭 I’m currently working on </h2>
 
