@@ -9,8 +9,10 @@
 
 <h2>🔭 I’m currently working on </h2>
 
+-Portfolio
+-TryhackMe
 - Security plus
-- ISC2 CC
+- AWS
 
 <h2>🌱 I’m currently learning</h2>
 
@@ -18,9 +20,6 @@
 
 <h2>📋 Certifications</h2>
 
-- Security Plus 601 (2024)
-- ISC2 CC (MAR 2024)
-- Ultimate GRC Course by Simply Cyber
 - Qualys pci-dss
 - Qualys Vulnerability Management
 - Google Information Technology Professional
