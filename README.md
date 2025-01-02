@@ -9,8 +9,8 @@
 
 <h2>🔭 I’m currently working on </h2>
 
--Portfolio
--TryhackMe
+- Portfolio
+- TryhackMe
 - Security plus
 - AWS
 
