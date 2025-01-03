@@ -1,11 +1,19 @@
-<h1>Hi, I'm Julio! <br/><a href="https://github.com/julio1415">IT </a>& <a href="https://www.linkedin.com/in/julioriveraa/">Cybersecurity Professional</a> <!-- -, <a href="https://www.youtube.com/">YouTuber</a></h1>-->
+<h1 align="center">Hi, I'm Julio Rivera! 👋</h1>
+<p align="center">
+<a href="https://github.com/julio1415">GitHub</a> | 
+<a href="https://www.linkedin.com/in/julioriveraa/">LinkedIn</a>
+</p>
 
-<h2>👨‍💻 Projects:</h2>
+<h2 align="center">🚀 Cybersecurity Enthusiast | Aspiring IT Professional 🚀</h2>
+<p align="center">Dedicated to blending technical acumen with hands-on experience to advance cybersecurity and IT operations.</p>
 
-<!-- - https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home-->
-- <b> Azure / Cloud Projects </b>
+---
+
+<h2>👨‍💻 Active Projects:</h2>
+
+- <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/julio1415/Cloud-SOC)
-  - [Creating 1000 users in Active directory](https://github.com/julio1415/1000usersAD/)
+  - [Creating 1000 users in Active Directory](https://github.com/julio1415/1000usersAD/)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/julio1415/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/julio1415/post-install-config)
@@ -14,51 +22,32 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/julio1415/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/julio1415/azure-network-protocols)
 
-<h2>🔭 I’m currently working on </h2>
+<h2>🔭 Current Endeavors:</h2>
 
-- Portfolio
-- TryhackMe
-- Security plus
-- AWS
+- Compiling a professional portfolio
+- Completing challenges on TryHackMe
+- Studying for Security+ and AWS certifications
 
-<h2>🌱 I’m currently learning</h2>
+<h2>🌱 I’m currently learning:</h2>
 
-- How to land my first job in tech specifically Cybersecurity
+- Effective strategies for securing a position in the tech industry, with a focus on cybersecurity roles.
 
-<h2>📋 Certifications</h2>
+<h2>📜 Certifications:</h2>
 
-- Qualys pci-dss
+- Qualys PCI DSS Compliance
 - Qualys Vulnerability Management
 - Google Information Technology Professional
-- Google CyberSecurity
+- Google Cybersecurity
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 On My Channel:</h2>
 
-- Uploading......... 
+- [Upcoming content on YouTube](https://www.youtube.com) – Stay tuned!
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Let's Connect:</h2>
 
-[<img align="left" alt="JulioRivera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JulioRivera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JulioRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JulioRivera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com//
-[linkedin]: https://linkedin.com/in/julioriveraa
-
-<!--
-
-Here are some ideas to get you started:
-
-
-<h2>📺 Popular YouTube Videos</h2>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://twitter.com/"><img alt="JulioRivera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://www.youtube.com/"><img alt="JulioRivera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
+<a href="https://linkedin.com/in/julioriveraa"><img alt="JulioRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://www.instagram.com/"><img alt="JulioRivera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+</p>
