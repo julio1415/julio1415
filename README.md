@@ -25,7 +25,6 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/julio1415/Vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
   
 <h2>🔭 Current Endeavors:</h2>
 
