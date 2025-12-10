@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">🚀 Cybersecurity Enthusiast | Aspiring IT Professional 🚀</h2>
-<p align="center">Dedicated to blending technical acumen with hands-on experience to advance cybersecurity and IT operations.</p>
+<p align="center">Dedicated to Cybersecurity .</p>
 
 ---
 
