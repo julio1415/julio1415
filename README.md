@@ -9,7 +9,7 @@
 
 ---
 
-<h2>👨‍💻 Active Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/julio1415/Cloud-SOC)
@@ -44,9 +44,6 @@
 - Google Information Technology Professional
 - Google Cybersecurity
 
-<h2>📺 On My Channel:</h2>
-
-- [Upcoming content on YouTube](https://www.youtube.com) – Stay tuned!
 
 <h2>🤳 Let's Connect:</h2>
 
