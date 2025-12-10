@@ -22,6 +22,11 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/julio1415/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/julio1415/azure-network-protocols)
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/julio1415/Vulnerability-management)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+  
 <h2>🔭 Current Endeavors:</h2>
 
 - Compiling a professional portfolio
