@@ -52,7 +52,7 @@
 
 <p align="left">
 <a href="https://twitter.com/"><img alt="JulioRivera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-<a href="https://www.youtube.com/"><img alt="JulioRivera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
+<a href="https://www.youtube.com/@acceleratedjulio"><img alt="JulioRivera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
 <a href="https://linkedin.com/in/julioriveraa"><img alt="JulioRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <a href="https://www.instagram.com/"><img alt="JulioRivera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 </p>
