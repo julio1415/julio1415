@@ -25,6 +25,9 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/julio1415/Vulnerability-management)**
+- ## 💀 Threat Hunting Projects
+
+- **[Threat Hunting Scenerio](https://github.com/julio1415/threat-hunting-scenario-tor/blob/main/README.md)**
   
 <h2>🔭 Current Endeavors:</h2>
 
